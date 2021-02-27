@@ -1,20 +1,18 @@
-# cbfn
+### Hi there 👋
 
-## Build Setup
+- 🔭 I’m currently working on my portfolio. Please be patient. 😉
 
-```bash
-# install dependencies
-$ yarn install
+<!--
+**cbfn/cbfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+Here are some ideas to get you started:
 
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
