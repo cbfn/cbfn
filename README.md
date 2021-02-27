@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my portfolio. Please be patient. 😉
+
 <!--
 **cbfn/cbfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
