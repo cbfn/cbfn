@@ -1,9 +1,7 @@
 <template>
-  <div class="container">
-    <div>
-      <h1 class="title">cbfn.dev</h1>
-      <h2>Web, Mobile and Support Development | Company Training</h2>
-    </div>
+  <div class="container mx-auto px-4">
+    <h1 class="title"><span>&lt;</span>bfn</h1>
+    <h2>Web, Mobile and Support Development | Company Training</h2>
   </div>
 </template>
 
@@ -36,6 +34,10 @@ export default Vue.extend({})
   font-size: 100px;
   color: #35495e;
   letter-spacing: 1px;
+
+}
+.title > span {
+  @apply font-bold;
 }
 
 .subtitle {
