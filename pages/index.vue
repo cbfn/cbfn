@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4">
+  <div class="container mx-auto px-4 flex flex-col">
     <h1 class="title"><span>&lt;</span>bfn</h1>
     <h2>Web, Mobile and Support Development | Company Training</h2>
   </div>
