@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4 flex flex-col">
-    <h1 class="title"><span>&lt;</span>bfn</h1>
+    <h1 class="title"><span>&lt;</span>BFN</h1>
     <h2>Web, Mobile and Support Development | Company Training</h2>
   </div>
 </template>
@@ -12,6 +12,7 @@ export default Vue.extend({})
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&display=swap');
 /* Sample `apply` at-rules with Tailwind CSS
 .container {
 @apply min-h-screen flex justify-center items-center text-center mx-auto;
@@ -27,17 +28,17 @@ export default Vue.extend({})
 }
 
 .title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Inter', sans-serif;
   display: block;
-  font-weight: 400;
-  font-size: 100px;
+  @apply font-bold;
+  font-size: 80px;
   color: #35495e;
   letter-spacing: 1px;
-
+  letter-spacing: -5px;
 }
 .title > span {
   @apply font-bold;
+  font-size: 100px;
 }
 
 .subtitle {
