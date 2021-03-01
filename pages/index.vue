@@ -34,7 +34,6 @@ export default Vue.extend({})
   font-size: 80px;
   color: #35495e;
   letter-spacing: 1px;
-  letter-spacing: -5px;
 }
 .title > span {
   @apply font-bold;
