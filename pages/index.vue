@@ -21,10 +21,10 @@
       <h2 class="text-5xl">Mobile</h2>
       <h2 class="text-5xl">Support</h2>
       <h2 class="text-5xl">& Company Training</h2>
-      <div class="space-x-2 text-2xl mt-4">
+      <div class="space-x-2 text-2xl mt-8">
         <a
           href="https://www.instagram.com/cbfn.dev/"
-          title="Follow me on instagram"
+          title="Follow us on instagram"
           class="border border-purple-700 text-purple-700 hover:bg-purple-700 hover:text-white rounded-full transition-all duration-500 ease-in-out py-4 px-8"
           >Follow us on <font-awesome-icon :icon="['fab', 'instagram']"
         /></a>
@@ -54,8 +54,7 @@ export default Vue.extend({
 })
 </script>
 
-<style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&display=swap');
+<style>
 /* Sample `apply` at-rules with Tailwind CSS
 .container {
 @apply min-h-screen flex justify-center items-center text-center mx-auto;

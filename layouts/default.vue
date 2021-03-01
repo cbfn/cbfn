@@ -6,6 +6,8 @@
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&display=swap');
+
 html {
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
