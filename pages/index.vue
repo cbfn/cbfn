@@ -14,7 +14,7 @@
     <div
       class="w-full md:w-2/3 bg-white h-full flex flex-col p-8 justify-center"
     >
-      <h1 class="block md:hidden title font-bold text-5xl">
+      <h1 class="block md:hidden title text-5xl">
         <span>&lt;</span>CBFN<span>&gt;</span>
       </h1>
       <h2 class="text-5xl">Web</h2>
@@ -71,6 +71,7 @@ export default Vue.extend({
 
 .title {
   font-family: 'Inter', sans-serif;
+  font-weight: 300;
 }
 .title > span {
   @apply font-bold;
