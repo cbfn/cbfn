@@ -74,7 +74,6 @@ export default Vue.extend({
   font-weight: 300;
 }
 .title > span {
-  @apply font-bold;
   font-size: 60px;
 }
 
