@@ -7,15 +7,15 @@
   </div> -->
   <div class="flex flex-row h-screen">
     <div class="hidden w-1/3 md:flex items-center justify-center h-full">
-      <h1 class="title text-white font-bold text-5xl">
-        <span>&lt;</span>CBFN<span>&gt;</span>
+      <h1 class="title text-white text-5xl">
+        CBFN
       </h1>
     </div>
     <div
       class="w-full md:w-2/3 bg-white h-full flex flex-col p-8 justify-center"
     >
       <h1 class="block md:hidden title text-5xl">
-        <span>&lt;</span>CBFN<span>&gt;</span>
+        CBFN
       </h1>
       <h2 class="text-5xl">Web</h2>
       <h2 class="text-5xl">Mobile</h2>
