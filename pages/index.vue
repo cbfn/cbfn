@@ -24,9 +24,9 @@
       <div class="space-x-2 text-2xl mt-8">
         <a
           href="https://www.instagram.com/cbfn.dev/"
-          title="Follow us on instagram"
+          title="Follow me on instagram"
           class="border border-purple-700 text-purple-700 hover:bg-purple-700 hover:text-white rounded-full transition-all duration-500 ease-in-out py-4 px-8"
-          >Follow us on <font-awesome-icon :icon="['fab', 'instagram']"
+          >Follow me on <font-awesome-icon :icon="['fab', 'instagram']"
         /></a>
       </div>
     </div>
@@ -46,7 +46,7 @@ export default Vue.extend({
           hid: 'description',
           name: 'description',
           content:
-            'We create web and mobile applications that helps companies to generate more results for their customers.',
+            'I create web and mobile applications that helps companies to generate more results for their customers.',
         },
       ],
     }
