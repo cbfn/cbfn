@@ -11,18 +11,23 @@
       <h1 class="block md:hidden mb-8">
         <img src="~/assets/logo-dark.svg" width="150" height="53" alt="CBFN" />
       </h1>
-      <h2 class="text-5xl">Web</h2>
-      <h2 class="text-5xl">Mobile</h2>
-      <h2 class="text-5xl">Support</h2>
-      <h2 class="text-5xl">& Company Training</h2>
-      <div class="space-x-2 text-2xl mt-8">
-        <a
-          href="https://www.instagram.com/cbfn.dev/"
-          title="Follow me on instagram"
-          class="border border-purple-700 text-purple-700 hover:bg-purple-700 hover:text-white rounded-full transition-all duration-500 ease-in-out py-4 px-8"
-          >Follow me on <font-awesome-icon :icon="['fab', 'instagram']"
-        /></a>
-      </div>
+      <h2 class="text-2xl mb-4">About CBFN</h2>
+      <p>
+        CBFN is a small company specialized in web, mobile, IT support and
+        consulting for startups, small, medium and big companies based on
+        Florianópolis, SC, Brazil.
+      </p>
+      <h2 class="my-4 text-2xl">Address</h2>
+      <address>
+        Rua Sebastião Laurentino da Silva, 170, Apt 101<br />CEP 88037-400,
+        Florianópolis, SC, Brazil
+      </address>
+      <footer class="mt-12">
+        <small
+          >This site is owned and operated by Christian Barros Fabião do
+          Nascimento</small
+        >
+      </footer>
     </div>
   </div>
 </template>
@@ -40,7 +45,7 @@ export default Vue.extend({
           hid: 'description',
           name: 'description',
           content:
-            'I create web and mobile applications that helps companies to generate more results for their customers.',
+            'CBFN is a small company specialized in web, mobile, it support and consulting for startups, small, medium and big companies based on Florianópolis, SC, Brazil.',
         },
       ],
     }
