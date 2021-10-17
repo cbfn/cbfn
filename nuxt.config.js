@@ -31,11 +31,11 @@ export default {
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-analytics',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxtjs/gtm',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     [
@@ -58,9 +58,9 @@ export default {
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
 
-  // Analytics
-  googleAnalytics: {
-    id: 'G-7EPJMW9SHY',
+  // GTM
+  gtm: {
+    id: 'GTM-K8JVPHQ',
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
