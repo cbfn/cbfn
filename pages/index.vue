@@ -19,7 +19,17 @@
         <a
           href="https://www.instagram.com/cbfn.dev/"
           title="Follow me on instagram"
-          class="border border-purple-700 text-purple-700 hover:bg-purple-700 hover:text-white rounded-full transition-all duration-500 ease-in-out py-4 px-8"
+          class="
+            border border-purple-700
+            text-purple-700
+            hover:bg-purple-700 hover:text-white
+            rounded-full
+            transition-all
+            duration-500
+            ease-in-out
+            py-4
+            px-8
+          "
           >Follow me on <font-awesome-icon :icon="['fab', 'instagram']"
         /></a>
       </div>
