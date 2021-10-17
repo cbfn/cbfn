@@ -31,6 +31,7 @@ export default {
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-analytics',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -56,6 +57,11 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
+
+  // Analytics
+  googleAnalytics: {
+    id: 'G-7EPJMW9SHY',
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},

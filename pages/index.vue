@@ -40,7 +40,7 @@ export default Vue.extend({
           hid: 'description',
           name: 'description',
           content:
-            'I create web and mobile applications that helps companies to generate more results for their customers.',
+            'We create web and mobile applications that helps companies to generate more results for their customers.',
         },
       ],
     }

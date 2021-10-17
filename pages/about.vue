@@ -6,18 +6,22 @@
       </h1>
     </div>
     <div
-      class="w-full md:w-2/3 bg-white h-full flex flex-col p-8 justify-center"
+      class="w-full md:w-2/3 bg-white h-full flex flex-col p-8 justify-between"
     >
       <h1 class="block md:hidden mb-8">
         <img src="~/assets/logo-dark.svg" width="150" height="53" alt="CBFN" />
       </h1>
       <h2 class="text-2xl mb-4">About CBFN</h2>
+      <h3 class="text-5xl mb-4 leading-tight">
+        We create web and mobile applications that helps companies to generate
+        more results for their customers.
+      </h3>
       <p>
         CBFN is a small company specialized in web, mobile, IT support and
         consulting for startups, small, medium and big companies based on
         Florianópolis, SC, Brazil.
       </p>
-      <h2 class="my-4 text-2xl">Address</h2>
+      <h2 class="mt-12 mb-4 text-2xl">Address</h2>
       <address>
         Rua Sebastião Laurentino da Silva, 170, Apt 101<br />CEP 88037-400,
         Florianópolis, SC, Brazil
